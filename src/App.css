@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: antiquewhite;
+  width: 60%;
+  margin: 5em auto;
+  padding: 1em;
+}
+
+.btn {
+  background-color: rebeccapurple;
+  color: aliceblue;
+  font-size: 1em;
+  border: none;
+  outline: none;
+  margin: 1em;
+  padding: 1em;
+}
